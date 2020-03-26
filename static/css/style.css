@@ -1,0 +1,21 @@
+.card{
+    box-shadow: rgba(0,0,0,.6) 1px 1px 3px;
+}
+
+body{
+    background:linear-gradient(to right, rgba(219, 213, 154, 1.), rgba(187, 221, 187, 1.));
+}
+
+.none{
+    display: none;
+}
+
+.badge{
+    color: #fff;
+    background:#5C5B5B;
+    /*padding: 3px;*/
+}
+
+a{
+    color:#fff;
+}
